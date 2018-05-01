@@ -1,0 +1,4 @@
+#xsd2java config data
+#Mon Apr 09 20:22:09 CST 2018
+txtPackageName=com.guoyasoft.bean.api.user.queryUser
+txtDestDir=\\\\vmware-host\\Shared Folders\\Desktop\\api
